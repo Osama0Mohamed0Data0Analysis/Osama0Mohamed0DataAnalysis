@@ -26,8 +26,8 @@ Here are some of my key projects showcasing end-to-end data workflows:
 
 ### 📊 GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Osama0Mohamed0Data0Analysis/Osama0Mohamed0DataAnalysis&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Osama0Mohamed0DataAnalysis&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ---
-📫 **Let's Connect:** [LinkedIn Profile]([https://linkedin.com](https://www.linkedin.com/in/osamaamohamed2050) | [Email](osama19mohamed19@gmail.com)
+📫 **Let's Connect:** [LinkedIn Profile](https://linkedin.com) | [Email](mailto:your-email@example.com)
