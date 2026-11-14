@@ -1,93 +1,60 @@
-# 👋 Hello, I'm Osama Mohamed
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Osama%20Mohamed&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20Business%20Intelligence&descAlignY=58&descSize=18" alt="Osama Mohamed — Data Analyst" width="100%" />
+  <img src="https://avatars.githubusercontent.com/u/271748043?v=4" width="120" alt="Osama Mohamed's GitHub profile picture" />
+  <h1>Hi, I'm Osama Mohamed 👋</h1>
+  <h3>Data Analyst | BI Enthusiast | Problem Solver</h3>
+  <p><i>Turning raw data into clear insights, effective dashboards, and better decisions.</i></p>
+</div>
 
-Data Analyst | BI Enthusiast | Problem Solver
-
-> Turning raw data into clear insights, strong dashboards, and smart decisions.
-
-I specialize in data analysis, business intelligence, and machine learning workflows using Excel, Python, and data visualization techniques. I enjoy transforming messy datasets into actionable insights that support better decision-making.
+---
 
 ## About Me
 
-- 📊 Data Analyst with a strong interest in BI dashboards, trend analysis, and KPI reporting
-- 🧠 Focused on data cleaning, exploratory analysis, and predictive modeling
-- 📈 Experience with Excel dashboards, Python-based analysis, and ML classification/regression workflows
-- 🔍 Passionate about making data understandable, useful, and decision-driven
+I'm a data analyst interested in transforming data into useful, easy-to-understand insights. I work on data cleaning, exploratory analysis, KPI reporting, dashboards, and machine learning projects.
 
----
+- 📊 Building Excel dashboards and analyzing business performance
+- 🐍 Exploring datasets and creating visualizations with Python
+- 🤖 Developing classification and regression projects
+- 🌱 Currently learning **Power BI** and **SQL**
 
-## Technical Skills
+## Tech Stack
 
-### Data Analysis & BI
-- Microsoft Excel
-- Pivot Tables
-- Data Cleaning & Validation
-- KPI reporting
-- Dashboard design
+<p align="left">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Power%20BI-learning-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Learning Power BI" />
+  <img src="https://img.shields.io/badge/SQL-learning-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Learning SQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
-### Programming & Data Science
-- Python
-- Pandas
-- NumPy
-- Seaborn
-- Matplotlib
-- Exploratory Data Analysis (EDA)
-
-### Machine Learning
-- Classification Models
-- Regression Models
-- Decision Trees
-- SVM
-- Neural Networks
-- Model evaluation
-
-### Tools & Workflow
-- Git & GitHub
-- Jupyter Notebook
-- Power BI (learning path)
-- SQL (learning path)
-
----
+**Core skills:** Data cleaning · Exploratory Data Analysis · KPI reporting · Dashboard design · Classification · Regression · Model evaluation
 
 ## Featured Projects
 
-### 1) Excel Sales Performance Dashboard
-A sales dashboard built in Excel to analyze sales trends, regional performance, profitability, and key business indicators.
+| Project | Overview | Tools |
+|---|---|---|
+| [📈 Excel Sales Performance Dashboard](https://github.com/Osama0Mohamed0Data0Analysis/excel-sales-performance-dashboard.) | Sales trends, regional performance, profitability, and key business indicators. | Excel · Pivot Tables · Charts · Slicers |
+| [👥 Excel HR Employees Dashboard](https://github.com/Osama0Mohamed0Data0Analysis/excel-hr-employees-dashboard) | Employee distribution, salary trends, bonuses, performance categories, and staffing insights. | Excel · Dashboard Design · Data Analysis |
+| [🎓 Student Academic Performance Data Mining](https://github.com/Osama0Mohamed0Data0Analysis/student-academic-performance-data-mining) | Academic performance analysis with exploratory data analysis and data-mining techniques. | Python · Pandas · Seaborn · EDA |
+| [🧬 Biometric Performance AI: Classification & Regression](https://github.com/Osama0Mohamed0Data0Analysis/biometric-performance-ai-classification-regression) | Predictive modeling project exploring classification and regression on biometric and performance data. | Python · Scikit-learn · Machine Learning |
 
-- Tools: Excel, Pivot Tables, Charts, Slicers
-- Link: [https://github.com/Osama0Mohamed0Data0Analysis/excel-sales-performance-dashboard](https://github.com/Osama0Mohamed0Data0Analysis/excel-sales-performance-dashboard.).
+## GitHub
 
-### 2) Excel HR Employees Dashboard
-An HR analytics dashboard used to monitor employee distribution, salary trends, bonuses, performance categories, and staffing insights.
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Osama0Mohamed0Data0Analysis&show_icons=true&hide_border=true&theme=tokyonight" alt="Osama's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osama0Mohamed0Data0Analysis&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
+</div>
 
-- Tools: Excel, Dashboard Design, Data Analysis
-- Link: https://github.com/Osama0Mohamed0Data0Analysis/excel-hr-employees-dashboard
+## Connect
 
-### 3) Student Academic Performance Data Mining
-A real-world academic dataset analysis focused on attendance, student performance, and data mining techniques for insight generation.
+- GitHub: [@Osama0Mohamed0Data0Analysis](https://github.com/Osama0Mohamed0Data0Analysis)
 
-- Tools: Python, Pandas, Seaborn, EDA
-- Link: https://github.com/Osama0Mohamed0Data0Analysis/student-academic-performance-data-mining
-
-### 4) Biometric Performance AI Classification & Regression
-A machine learning project focused on predictive modeling based on biometric and performance-related features for classification and regression objectives.
-
-- Tools: Python, Scikit-learn, ML Models, EDA
-- Link: https://github.com/Osama0Mohamed0Data0Analysis/biometric-performance-ai-classification-regression
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Osama0Mohamed0DataAnalysis&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
----
-
-## Let's Connect
-
-- GitHub: https://github.com/Osama0Mohamed0Data0Analysis
-- LinkedIn: https://www.linkedin.com/in/your-profile-link
-- Email: your-email@example.com
-
-"""
+<div align="center">
+  <i>Thanks for visiting my profile! Feel free to explore my projects.</i>
+</div>
