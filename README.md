@@ -54,7 +54,7 @@ I specialize in data analysis, business intelligence, and machine learning workf
 A sales dashboard built in Excel to analyze sales trends, regional performance, profitability, and key business indicators.
 
 - Tools: Excel, Pivot Tables, Charts, Slicers
-- Link: https://github.com/Osama0Mohamed0Data0Analysis/excel-sales-performance-dashboard.
+- Link: [https://github.com/Osama0Mohamed0Data0Analysis/excel-sales-performance-dashboard](https://github.com/Osama0Mohamed0Data0Analysis/excel-sales-performance-dashboard.).
 
 ### 2) Excel HR Employees Dashboard
 An HR analytics dashboard used to monitor employee distribution, salary trends, bonuses, performance categories, and staffing insights.
