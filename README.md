@@ -1,6 +1,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0F2027,100:2C5364&height=150&section=header&text=Osama%20Mohamed&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20Business%20Intelligence&descAlignY=58&descSize=18" alt="Osama Mohamed — Data Analyst" width="100%" />
-  <img src="https://avatars.githubusercontent.com/u/271748043?v=4" width="120" alt="Osama Muhammad profile" />
   <h1>Hi, I'm Osama Mohamed 👋</h1>
   <h3>Data Analyst | BI Enthusiast | Problem Solver</h3>
   <p><i>Turning raw data into clear insights, effective dashboards, and better decisions.</i></p>
