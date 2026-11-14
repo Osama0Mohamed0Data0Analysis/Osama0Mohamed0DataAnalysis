@@ -1,5 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0F2027,100:2C5364&height=150&section=header&text=Osama%20Mohamed&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20Business%20Intelligence&descAlignY=58&descSize=18" alt="Osama Mohamed — Data Analyst" width="100%" />
+  <img src="https://avatars.githubusercontent.com/u/271748043?v=4" width="120" alt="Osama Mohamed's GitHub profile picture" />
   <h1>Hi, I'm Osama Mohamed 👋</h1>
   <h3>Data Analyst | BI Enthusiast | Problem Solver</h3>
   <p><i>Turning raw data into clear insights, effective dashboards, and better decisions.</i></p>
@@ -37,7 +38,8 @@ I am a data analyst focused on transforming raw data into actionable insights. I
 
 | Project | Focus | Tools |
 |---|---|---|
-| [📈 Sales Performance Dashboard](https://github.com/Osama0Mohamed0Data0Analysis/excel-sales-performance-dashboard.) | Sales, profit, geographies, and shipping insights | Excel · Pivot Tables · Charts · Slicers |
+| [📊 Sales Optima BI Dashboard](https://github.com/Osama0Mohamed0Data0Analysis/Sales-Optima-BI) | Sales, products, customers, sales-rep targets, returns, and shipping logistics | Power BI · DAX · Excel · Python/Pandas |
+| [📈 Sales Performance Dashboard](https://github.com/Osama0Mohamed0Data0Analysis/excel-sales-performance-dashboard.) | Sales, profit, geography, and shipping insights | Excel · Pivot Tables · Charts · Slicers |
 | [👥 HR Employees Dashboard](https://github.com/Osama0Mohamed0Data0Analysis/excel-hr-employees-dashboard) | Workforce analysis, compensation, and hiring trends | Excel · Dashboard Design · Data Analysis |
 | [🎓 Student Academic Performance](https://github.com/Osama0Mohamed0Data0Analysis/student-academic-performance-data-mining) | Attendance, scores, and academic data mining | Python · Pandas · Seaborn · EDA |
 | [🧬 Biometric Performance AI](https://github.com/Osama0Mohamed0Data0Analysis/biometric-performance-ai-classification-regression) | Classification and regression based on performance data | Python · Scikit-learn · ML |
@@ -48,7 +50,7 @@ I am a data analyst focused on transforming raw data into actionable insights. I
 - [🐋 ORCA](https://github.com/Osama0Mohamed0Data0Analysis/ORCA)
 - [🏛️ Dean's Office System](https://github.com/Osama0Mohamed0Data0Analysis/deans-office-system)
 - [🧑‍💼 S_Office_System](https://github.com/Osama0Mohamed0Data0Analysis/S_Office_System)
-- [💡 proud-portfolio-painter](https://github.com/Osama0Mohamed0Data0Analysis/proud-portfolio-painter)
+- [💡 Portfolio Painter](https://github.com/Osama0Mohamed0Data0Analysis/proud-portfolio-painter)
 
 ## GitHub Statistics
 
@@ -62,5 +64,5 @@ I am a data analyst focused on transforming raw data into actionable insights. I
 - GitHub: [@Osama0Mohamed0Data0Analysis](https://github.com/Osama0Mohamed0Data0Analysis)
 
 <div align="center">
-  <i>Thanks for visiting my profile.</i>
+  <i>Thanks for visiting my profile!</i>
 </div>
