@@ -30,4 +30,4 @@ Here are some of my key projects showcasing end-to-end data workflows:
 </p>
 
 ---
-📫 **Let's Connect:** [LinkedIn Profile](https://linkedin.com) | [Email](mailto:your-email@example.com)
+📫 **Let's Connect:** [LinkedIn Profile](https://www.linkedin.com/in/YOUR-PROFILE-LINK) | [Email](mailto:your-email@example.com)
