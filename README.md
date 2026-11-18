@@ -1,53 +1,66 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0F2027,100:2C5364&height=150&section=header&text=Osama%20Mohamed&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20Business%20Intelligence&descAlignY=58&descSize=18" alt="Osama Mohamed — Data Analyst" width="100%" />
-  <img src="https://avatars.githubusercontent.com/u/271748043?v=4" width="120" alt="Osama Mohamed's GitHub profile picture" />
-  <h1>Hi, I'm Osama Mohamed 👋</h1>
-  <h3>Data Analyst | BI Enthusiast | Problem Solver</h3>
-  <p><i>Turning raw data into clear insights, effective dashboards, and better decisions.</i></p>
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:081A2B,50:123B5D,100:087E8B&height=220&section=header&text=OSAMA%20MOHAMED&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20ANALYTICS%20%7C%20BUSINESS%20INTELLIGENCE%20%7C%20APPLIED%20MACHINE%20LEARNING&descSize=15&descAlignY=62&animation=fadeIn" width="100%" alt="Osama Mohamed — Data Analytics, Business Intelligence, Applied Machine Learning" />
+
+  <h1>Turning Data into Decisions</h1>
+  <p><strong>Data Analyst · BI & Dashboard Development · Applied Machine Learning</strong></p>
+  <p>I transform raw data into reliable insights, decision-ready dashboards, and practical predictive solutions.</p>
+  <p><em>من البيانات الخام إلى رؤى واضحة وقرارات أفضل.</em></p>
+
+  <a href="https://github.com/Osama0Mohamed0Data0Analysis"><img src="https://img.shields.io/badge/GitHub-View%20my%20work-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
+  <img src="https://img.shields.io/badge/Focus-Analytics%20%26%20BI-087E8B?style=for-the-badge" alt="Analytics and BI" />
+  <img src="https://img.shields.io/badge/Building-Real--world%20projects-2457C5?style=for-the-badge" alt="Real-world projects" />
+
 </div>
 
 ---
 
-## About Me
+## 👋 About Me
 
-I am a data analyst focused on transforming raw data into actionable insights. I enjoy working with Excel, Python, data visualization, and machine learning to solve business and analytical problems.
+I’m a data analyst focused on making data useful: asking the right questions, preparing and exploring datasets, communicating findings clearly, and building analytical tools that support better decisions. My portfolio brings together business dashboards, Python-based analysis, predictive modeling, and decision-intelligence projects.
 
-- 📊 Excel dashboards and KPI reporting
-- 🐍 Python analysis and data cleaning
-- 📈 Exploratory data analysis and business insights
-- 🤖 Machine learning and predictive modeling
-- 🌱 Learning Power BI and SQL
+- 📊 Business and operational analysis, KPI reporting, and dashboard design
+- 🐍 Data cleaning, exploration, and visualization with Python
+- 🤖 Applied machine learning for classification, regression, and prediction
+- 🚚 Analytics projects spanning sales, people, fitness, and supply-chain operations
+- 🌱 Continuing to grow my Power BI and SQL skills
 
-## Tech Stack
+## 🧭 How I Work
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
+**Understand the question → Prepare trustworthy data → Explore and model → Communicate the insight → Support action**
+
+I aim to make every project clear about its business question, analytical approach, tools, and result—not just the code.
+
+## 🛠️ Toolkit
+
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/Power%20BI-learning-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/SQL-learning-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
+  <img src="https://img.shields.io/badge/SQL-Learning-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL learning" />
+  <img src="https://img.shields.io/badge/Power%20BI-Learning-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI learning" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-## Data Analytics Portfolio
+## 🚀 Featured Projects
 
-| Project | Focus | Tools |
+| Project | The analytical challenge | Approach & tools |
 |---|---|---|
-| [📊 Sales Optima BI Dashboard](https://github.com/Osama0Mohamed0Data0Analysis/Sales-Optima-BI) | Sales, products, customers, sales-rep targets, returns, and shipping logistics | Power BI · DAX · Excel · Python/Pandas |
-| [📈 Sales Performance Dashboard](https://github.com/Osama0Mohamed0Data0Analysis/excel-sales-performance-dashboard.) | Sales, profit, geography, and shipping insights | Excel · Pivot Tables · Charts · Slicers |
-| [👥 HR Employees Dashboard](https://github.com/Osama0Mohamed0Data0Analysis/excel-hr-employees-dashboard) | Workforce analysis, compensation, and hiring trends | Excel · Dashboard Design · Data Analysis |
-| [🎓 Student Academic Performance](https://github.com/Osama0Mohamed0Data0Analysis/student-academic-performance-data-mining) | Attendance, scores, and academic data mining | Python · Pandas · Seaborn · EDA |
-| [🧬 Biometric Performance AI](https://github.com/Osama0Mohamed0Data0Analysis/biometric-performance-ai-classification-regression) | Classification and regression based on performance data | Python · Scikit-learn · ML |
-| [🏋️ Body Performance Analytics](https://github.com/Osama0Mohamed0Data0Analysis/Body-Performance-Analytics) | Fitness-grade classification and broad-jump performance prediction | Python · Pandas · Scikit-learn · Streamlit |
-| [⚛️ QuantumPilot AI](https://github.com/Osama0Mohamed0Data0Analysis/QuantumPilot-AI) | AI-powered quantum execution orchestration and cost optimization | Python · Qiskit · FastAPI · PyTorch · Next.js |
-| [🚢 ORCA Supply Chain Delay Intelligence](https://github.com/Osama0Mohamed0Data0Analysis/ORCA-Supply-Chain-Delay-Intelligence) | Supply-chain delay prediction, risk analytics, and logistics decisions | Python · CatBoost · LightGBM · FastAPI · Streamlit |
+| [📊 Sales Optima BI Dashboard](https://github.com/Osama0Mohamed0Data0Analysis/Sales-Optima-BI) | Understand sales performance across products, customers, targets, returns, and shipping. | Power BI · DAX · Excel · Python/Pandas |
+| [🚢 ORCA Supply Chain Delay Intelligence](https://github.com/Osama0Mohamed0Data0Analysis/ORCA-Supply-Chain-Delay-Intelligence) | Turn shipment-delay risk into interpretable forecasts and operational decisions. | Python · CatBoost · LightGBM · SHAP · FastAPI · Streamlit |
+| [🏋️ Body Performance Analytics](https://github.com/Osama0Mohamed0Data0Analysis/Body-Performance-Analytics) | Analyze physical-performance data with classification and regression. | Python · Pandas · Scikit-learn · Streamlit |
+| [🧬 Biometric Performance AI](https://github.com/Osama0Mohamed0Data0Analysis/biometric-performance-ai-classification-regression) | Explore performance outcomes using predictive modeling. | Python · Scikit-learn · Machine Learning |
+| [🎓 Student Academic Performance](https://github.com/Osama0Mohamed0Data0Analysis/student-academic-performance-data-mining) | Explore attendance, scores, and patterns in academic outcomes. | Python · Pandas · Seaborn · EDA |
+| [📈 Sales Performance Dashboard](https://github.com/Osama0Mohamed0Data0Analysis/excel-sales-performance-dashboard.) | Reveal sales, profit, geographic, and shipping trends. | Excel · Pivot Tables · Charts · Slicers |
+| [👥 HR Employees Dashboard](https://github.com/Osama0Mohamed0Data0Analysis/excel-hr-employees-dashboard) | Examine workforce, compensation, and hiring trends. | Excel · Dashboard Design · Data Analysis |
+| [⚛️ QuantumPilot AI](https://github.com/Osama0Mohamed0Data0Analysis/QuantumPilot-AI) | Explore intelligent orchestration and cost-aware execution for quantum workloads. | Python · Qiskit · FastAPI · PyTorch · Next.js |
 
-## Other Projects
+<details>
+<summary><strong>More projects</strong></summary>
 
 - [📄 AI Resume Assistant](https://github.com/Osama0Mohamed0Data0Analysis/AI_Resume_Assistant)
 - [🐋 ORCA](https://github.com/Osama0Mohamed0Data0Analysis/ORCA)
@@ -55,17 +68,21 @@ I am a data analyst focused on transforming raw data into actionable insights. I
 - [🧑‍💼 S_Office_System](https://github.com/Osama0Mohamed0Data0Analysis/S_Office_System)
 - [💡 Portfolio Painter](https://github.com/Osama0Mohamed0Data0Analysis/proud-portfolio-painter)
 
-## GitHub Statistics
+</details>
+
+## 📈 GitHub Overview
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Osama0Mohamed0Data0Analysis&show_icons=true&hide_border=true&theme=tokyonight" alt="Osama's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osama0Mohamed0Data0Analysis&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Osama0Mohamed0Data0Analysis&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub profile statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osama0Mohamed0Data0Analysis&layout=compact&hide_border=true&theme=tokyonight" alt="Most-used languages" />
 </div>
 
-## Connect
+## 🤝 Connect
 
-- GitHub: [@Osama0Mohamed0Data0Analysis](https://github.com/Osama0Mohamed0Data0Analysis)
+<p>
+  <a href="https://github.com/Osama0Mohamed0Data0Analysis"><img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+</p>
 
 <div align="center">
-  <i>Thanks for visiting my profile!</i>
+  <sub>Interested in data analytics, business intelligence, or data-driven projects? Let’s connect.</sub>
 </div>
