@@ -43,6 +43,9 @@ I am a data analyst focused on transforming raw data into actionable insights. I
 | [👥 HR Employees Dashboard](https://github.com/Osama0Mohamed0Data0Analysis/excel-hr-employees-dashboard) | Workforce analysis, compensation, and hiring trends | Excel · Dashboard Design · Data Analysis |
 | [🎓 Student Academic Performance](https://github.com/Osama0Mohamed0Data0Analysis/student-academic-performance-data-mining) | Attendance, scores, and academic data mining | Python · Pandas · Seaborn · EDA |
 | [🧬 Biometric Performance AI](https://github.com/Osama0Mohamed0Data0Analysis/biometric-performance-ai-classification-regression) | Classification and regression based on performance data | Python · Scikit-learn · ML |
+| [🏋️ Body Performance Analytics](https://github.com/Osama0Mohamed0Data0Analysis/Body-Performance-Analytics) | Fitness-grade classification and broad-jump performance prediction | Python · Pandas · Scikit-learn · Streamlit |
+| [⚛️ QuantumPilot AI](https://github.com/Osama0Mohamed0Data0Analysis/QuantumPilot-AI) | AI-powered quantum execution orchestration and cost optimization | Python · Qiskit · FastAPI · PyTorch · Next.js |
+| [🚢 ORCA Supply Chain Delay Intelligence](https://github.com/Osama0Mohamed0Data0Analysis/ORCA-Supply-Chain-Delay-Intelligence) | Supply-chain delay prediction, risk analytics, and logistics decisions | Python · CatBoost · LightGBM · FastAPI · Streamlit |
 
 ## Other Projects
 
